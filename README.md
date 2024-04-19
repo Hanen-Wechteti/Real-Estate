@@ -7,9 +7,9 @@ This project is a real estate application built using the Django web framework a
 ### Front-Facing Website:
 - **Home Page:** Includes search functionality and displays the latest listings.
 
-![Form Screenshot](<media/photos/2024/04/09/Img_prj/Capture d'écran 2024-04-19 101736.png>)
+![Form Screenshot](</media/photos/2024/04/09/Img_prj/Capture d'écran 2024-04-19 101736.png>)
 
-C:\Workspace\btr_Project\media\photos\2024\04\09\Img_prj
+
 - **About Page:** Showcases information about the company and realtors.
 - **Listings Page:** Displays available properties with pagination.
 
